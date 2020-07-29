@@ -26,9 +26,7 @@ WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "pool.ntp.org", utcOffsetInSeconds);
 
 int iterationCounter = 0;
-int testFlag = 1;
 
-int msgFlag = 0; // Message flag for init vs. status e-mail
 char outages[2][20]; // Array to log last connection and service restoration times
 
 WiFiClient client;
