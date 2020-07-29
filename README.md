@@ -1,5 +1,6 @@
 # NodeMCU Internet Outage Detector
 by: Alex - Super Make Something
+
 date: July 29, 2020
 
 NodeMCU code and setup instructions for the internet outage detector shown [here](https://www.instagram.com/p/CDNDC7rDyOi).  
