@@ -3,7 +3,8 @@ by: Alex - Super Make Something
 
 date: July 29, 2020
 
-NodeMCU code and setup instructions for the internet outage detector shown [here](https://www.instagram.com/p/CDNDC7rDyOi).  
+NodeMCU code and setup instructions for the internet outage detector shown [here](https://www.instagram.com/p/CDNDC7rDyOi).
+
 If you need to pick up a NodeMCU for this build, please consider showing your support for this project by purchasing one through this Amazon Affiliate link: https://amzn.to/2X7RK5m
 
 ## Introduction
