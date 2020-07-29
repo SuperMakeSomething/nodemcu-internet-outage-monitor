@@ -5,7 +5,7 @@ date: July 29, 2020
 
 NodeMCU code and setup instructions for the internet outage detector shown [here](https://www.instagram.com/p/CDNDC7rDyOi).
 
-If you need to pick up a NodeMCU for this build, please consider showing your support for this project by purchasing one through this Amazon Affiliate link: https://amzn.to/2X7RK5m
+If you need to pick up a NodeMCU for this build and want to support this project, you can purchase one through this Amazon Affiliate link: https://amzn.to/2X7RK5m
 
 If you like projects like these, consider subscribing to the Super Make Something YouTube page [here](https://www.youtube.com/supermakesomething?sub_confirmation=1) for more cool builds!
 
@@ -33,6 +33,6 @@ Replace the following items in the code to match your setup:
 - Sender e-mail address in lines 210 and 231.
  
 ## Conclusion
-Hopefully you found this quick project useful!  If you enjoyed this tutorial, consider subscribing to Super Make Something on YouTube [here](https://www.youtube.com/supermakesomething?sub_confirmation=1) for more cool builds!  If you _really_ liked this tutorial and want to support future projects, you can [become a Patron on Patreon](https://www.patreon.com/SuperMakeSomething) or [buy me a coffee](https://www.buymeacoffee.com/SuperMakeSmthng).
+Hopefully you found this quick project useful!  If you enjoyed this tutorial, consider subscribing to Super Make Something on YouTube [here](https://www.youtube.com/supermakesomething?sub_confirmation=1) for more cool builds!  If you _really_ liked this tutorial and want to support future projects, you can become a [patron on Patreon](https://www.patreon.com/SuperMakeSomething) or [buy me a coffee](https://www.buymeacoffee.com/SuperMakeSmthng).
 
 If you have any questions or comments, I can most easily be reached on [Twitter](https://twitter.com/supermakesmthng) or [Instagram](https://www.instagram.com/supermakesomething/).
